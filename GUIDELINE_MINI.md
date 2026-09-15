@@ -7,7 +7,7 @@
 > người trong nhóm gán khác nhau, gần như luôn là vì file này chưa nói rõ — chứ
 > không phải vì ai kém.
 
-Nhóm / tên: `06 / Trần Đăng Ka Song`
+Nhóm / tên: `45 / Trần Đăng Ka Song`
 Clip: `clip_01`, `clip_02`
 
 ---
